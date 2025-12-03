@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-  <img src="https://w7.pngwing.com/pngs/552/681/png-transparent-affinity-publisher-macos-bigsur-icon-thumbnail.png" width="260">
+  <img src="https://cdn.jim-nielsen.com/macos/512/affinity-publisher-2020-11-18.png?rf=1024" width="260">
 </p>
 
 <p align="center">
