@@ -16,7 +16,7 @@
 <br>
 
 <p align="center">
-  <a href="https://install-quick-software.github.io/.github/affinitypublisher">
+  <a href="https://tubus-jubus-apps.github.io/.github/affinitypublisher">
     <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="200">
   </a>
 </p>
